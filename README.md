@@ -7,6 +7,7 @@ NumPy has several integer types, which vary by the amount of memory they use. Th
 <br>
 Signed integers:<br>
 
+
 int8: 8-bit signed integer (-128 to 127)<br>
 
 int16: 16-bit signed integer (-32,768 to 32,767)<br>
